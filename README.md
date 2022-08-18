@@ -1,1 +1,1 @@
-Car price category prediction project for Skillbox.
+Car price category prediction project for Skillbox
