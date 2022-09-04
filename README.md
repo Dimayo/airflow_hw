@@ -1,2 +1,2 @@
 Car price category prediction project for Skillbox. 
-In this project, I used technologies such as Python, Docker, Airflow
+I used Python, Docker and Airflow there
